@@ -1,0 +1,16 @@
+{
+  "name": "com.ultracombos.qrcoder",
+  "version": "1.0.0",
+  "displayName": "QRCoder",
+  "description": "Package for QRCoder",
+  "repository": "",
+  "type": "library",
+  "publishConfig": {
+    "registry": "http://nas.ultracombos.com:4873"
+  },
+  "author": {
+    "name": "Ultra Combos Co., Ltd.",
+    "email": "tech@ultracombos.com",
+    "url": "https://ultracombos.com"
+  }
+}
